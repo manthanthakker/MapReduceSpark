@@ -1,6 +1,0 @@
-1. Open the Project In IntellijIde. NOTE: the HW2 folder itself is the root folder in the project
-2. We are using the Joe's file to build projects so the document is availabile on blackboard  on how to build the project
-3. Open to MakeFile.txt, Comment Out the Job Name you want to run, set the local.input  to location of local file
-    and local.output to location where the output file should be produced
-4. type make alone to run locally
-   or make cloud to run on aws(Make sure your credentials are specified in ~/.profile)
