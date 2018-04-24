@@ -1,0 +1,8 @@
+Optimizing pageRank algorithm Followed coupled of threads:
+
+1. https://www.coursera.org/learn/big-data-analysis/lecture/gGbZo/pagerank-optimization
+
+2. https://spark.apache.org/docs/latest/tuning.html
+
+3. https://spark.apache.org/docs/latest/rdd-programming-guide.html#shuffle-operations
+
